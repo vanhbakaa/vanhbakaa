@@ -8,7 +8,7 @@
 
 ### <p align="center">💖 Vanh's GitHub Stats 💖</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanhbakaa&show_icons=true&theme=radical" alt="GitHub stats" width="400">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanhbakaa&theme=radical" alt="GitHub stats">
   <br>
   <img src="https://streak-stats.demolab.com/?user=vanhbakaa&theme=radical" alt="GitHub streaks">
 </p>
