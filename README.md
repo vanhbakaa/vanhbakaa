@@ -15,7 +15,7 @@
 <!-- ✦ HIỆU ỨNG CHỮ GÕ ✦ -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=520&lines=Self-taught+coder+%7C+Anime+lover+%E2%9C%A8;Always+learning+something+new~;UwU+Happy+Coding!+UwU" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=520&lines=Self-taught+coder+%E2%9C%A8;Always+learning+something+new~;UwU+Happy+Coding!+UwU" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 <p align="center">
   🍡 &nbsp;I love coding and building little projects<br>
   🌷 &nbsp;Currently learning and leveling up every day<br>
-  🎀 &nbsp;Anime, music & cute things make me happy<br>
+  🎀 &nbsp;music & cute things make me happy<br>
   💌 &nbsp;Feel free to say hi on Discord!
 </p>
 
